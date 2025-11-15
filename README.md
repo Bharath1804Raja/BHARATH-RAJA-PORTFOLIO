@@ -22,15 +22,13 @@ It’s fully responsive, smooth in navigation, and optimized for accessibility.
 ---
 
 ## Demo
-<img width="1895" height="869" alt="image" src="https://github.com/user-attachments/assets/a6734d7a-c261-4ead-9f0b-b754f7752c4f" />
-<img width="1895" height="836" alt="image" src="https://github.com/user-attachments/assets/f3ae5e03-c3ce-4fdd-afcc-421caa21d746" />
-<img width="1897" height="778" alt="image" src="https://github.com/user-attachments/assets/0fab59d7-dc5f-46d2-b451-6019604da148" />
-<img width="1902" height="804" alt="image" src="https://github.com/user-attachments/assets/2980033e-0697-4794-ac23-2ff9a34fbc8b" />
-<img width="1902" height="847" alt="image" src="https://github.com/user-attachments/assets/708234e7-209d-451d-8bd6-b8118bc44741" />
-<img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/e7b234bf-85fd-4ec0-b73f-217d48b23769" />
-<img width="1325" height="780" alt="image" src="https://github.com/user-attachments/assets/15b5d850-7f4a-460a-9187-eedfd644ad21" />
-<img width="971" height="423" alt="image" src="https://github.com/user-attachments/assets/c7eaf4b6-ff46-4361-a1d7-3e2729bda0e3" />
-<img width="1258" height="869" alt="image" src="https://github.com/user-attachments/assets/a4a9ee5d-fd86-4ebb-8017-1d71e4ab7a80" />
+<img width="1900" height="858" alt="image" src="https://github.com/user-attachments/assets/2057ff5e-2913-4d84-8ac0-25e9d8fb1bfe" />
+<img width="1883" height="847" alt="image" src="https://github.com/user-attachments/assets/67541441-baab-4e57-8aa7-fd9ed256189d" />
+<img width="1880" height="859" alt="image" src="https://github.com/user-attachments/assets/30d2d613-b4b4-4c71-a408-b2d92448ecda" />
+<img width="1872" height="755" alt="image" src="https://github.com/user-attachments/assets/a61e6f8f-a682-4669-9a5f-78ef54314548" />
+<img width="1374" height="860" alt="image" src="https://github.com/user-attachments/assets/a20d06f6-dbd7-4ffa-99e9-f3a3fc10ff66" />
+<img width="957" height="726" alt="image" src="https://github.com/user-attachments/assets/1ac83441-e5d9-4fa0-bd94-e5ec1f5f2361" />
+<img width="1646" height="860" alt="image" src="https://github.com/user-attachments/assets/bc604ccb-1a30-4bab-8e64-7afdaa1d8901" />
 
 ---
 
